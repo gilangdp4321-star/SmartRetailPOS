@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SmartRetailPOS</string>
+    <string name="pos_header_title">Smart POS Terminal Kasir</string>
+    <string name="pos_header_subtitle">Sistem Respon Error &amp; Otorisasi Kasir</string>
+    <string name="pos_input_barcode_title">Input Data Barcode</string>
+    <string name="pos_hint_barcode">Pindai / Masukkan Barcode</string>
+    <string name="pos_input_amount_title">Nominal Transaksi (Rp)</string>
+    <string name="pos_hint_amount">Nominal (Contoh: 150000)</string>
+    <string name="pos_simulation_title">Skenario Simulasi</string>
+    <string name="pos_sim_normal">Simulasi Transaksi Normal</string>
+    <string name="pos_sim_barcode_error">Simulasi Error Barcode 404</string>
+    <string name="pos_sim_network_timeout">Simulasi Error Jaringan</string>
+    <string name="pos_sim_limit_exceeded">Simulasi Limit Kasir &gt; 10Jt</string>
+    <string name="pos_btn_process">Proses Pembayaran Transaksi</string>
+</resources>
